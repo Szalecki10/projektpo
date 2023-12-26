@@ -1,0 +1,17 @@
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\bin\Debug\net8.0\Szkielete na obiektowe.exe
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\bin\Debug\net8.0\Szkielete na obiektowe.deps.json
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\bin\Debug\net8.0\Szkielete na obiektowe.runtimeconfig.json
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\bin\Debug\net8.0\Szkielete na obiektowe.dll
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\bin\Debug\net8.0\Szkielete na obiektowe.pdb
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\obj\Debug\net8.0\Szkielete na obiektowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\obj\Debug\net8.0\Szkielete na obiektowe.AssemblyInfoInputs.cache
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\obj\Debug\net8.0\Szkielete na obiektowe.AssemblyInfo.cs
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\obj\Debug\net8.0\Szkielete na obiektowe.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\obj\Debug\net8.0\Szkielete na obiektowe.dll
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\obj\Debug\net8.0\refint\Szkielete na obiektowe.dll
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\obj\Debug\net8.0\Szkielete na obiektowe.pdb
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\obj\Debug\net8.0\Szkielete na obiektowe.genruntimeconfig.cache
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\obj\Debug\net8.0\ref\Szkielete na obiektowe.dll
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\obj\Debug\net8.0\Szkielete na obiektowe.csproj.AssemblyReference.cache
+C:\Users\Jakub\source\repos\Szkielete na obiektowe\Szkielete na obiektowe\obj\Debug\net8.0\Szkielete na obiektowe.csproj.CopyComplete

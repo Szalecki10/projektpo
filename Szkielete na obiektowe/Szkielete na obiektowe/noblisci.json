@@ -1,0 +1,192 @@
+[
+{
+  "nobleID" : 1,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 2,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 3,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 4,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 5,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 6,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 7,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 8,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 9,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 10,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 11,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 12,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 13,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 14,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 15,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 16,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 17,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 18,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+{
+  "nobleID" : 19,
+   "pointsGiving" : 3,
+  "cardLevel" : 3,
+  "emeraldCost" : 2,
+  "diamondCost" : 1,
+  "sapphireCost" : 4,
+  "onyxCost" : 5,
+  "rubyCost" : 5
+},
+]

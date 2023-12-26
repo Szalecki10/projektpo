@@ -1,0 +1,440 @@
+{
+   "points" : "0",
+  "cardID" : "10",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "1",
+  "onyxCost" : "1",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "11",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "1",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "12",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "0",
+  "sapphireCost" : "1",
+  "onyxCost" : "0",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "13",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "0",
+  "sapphireCost" : "1",
+  "onyxCost" : "1",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "14",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "1",
+  "sapphireCost" : "1",
+  "onyxCost" : "0",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "15",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "1",
+  "sapphireCost" : "0",
+  "onyxCost" : "1",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "16",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "17",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "1",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "18",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "1",
+  "sapphireCost" : "1",
+  "onyxCost" : "0",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "19",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "20",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "1",
+  "sapphireCost" : "0",
+  "onyxCost" : "1",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "21",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "22",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "1",
+  "sapphireCost" : "1",
+  "onyxCost" : "0",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "23",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "24",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "25",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "1",
+  "sapphireCost" : "0",
+  "onyxCost" : "1",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "26",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "0",
+  "sapphireCost" : "1",
+  "onyxCost" : "0",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "27",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "1",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "28",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "1",
+  "sapphireCost" : "1",
+  "onyxCost" : "0",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "29",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "1",
+  "sapphireCost" : "0",
+  "onyxCost" : "1",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "30",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "0",
+  "sapphireCost" : "1",
+  "onyxCost" : "0",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "31",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "1",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "32",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "1",
+  "sapphireCost" : "1",
+  "onyxCost" : "1",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "33",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "1",
+  "sapphireCost" : "0",
+  "onyxCost" : "1",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "34",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "35",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "1",
+  "sapphireCost" : "0",
+  "onyxCost" : "1",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "36",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "37",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "1",
+  "sapphireCost" : "0",
+  "onyxCost" : "1",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "38",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "1",
+  "sapphireCost" : "1",
+  "onyxCost" : "1",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "39",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "1",
+  "onyxCost" : "1",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "40",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "1",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "41",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "42",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "1",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "43",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "1",
+  "onyxCost" : "1",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "44",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "1",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "45",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "1",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "46",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "1",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "47",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "0",
+  "sapphireCost" : "1",
+  "onyxCost" : "0",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "48",
+  "cardLevel" : "1",
+  "emeraldCost" : "0",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "1",
+  "colorGainedID" : "0"
+}
+{
+   "points" : "0",
+  "cardID" : "49",
+  "cardLevel" : "1",
+  "emeraldCost" : "1",
+  "diamondCost" : "0",
+  "sapphireCost" : "0",
+  "onyxCost" : "0",
+  "rubyCost" : "0",
+  "colorGainedID" : "0"
+}

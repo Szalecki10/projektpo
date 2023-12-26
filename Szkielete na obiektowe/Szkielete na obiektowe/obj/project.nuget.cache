@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pjdkaYig5/QNc3XGlyU3ZjNtv25r0SlgM6BbfsAEUBG7hfizV11yPf5YIVZ5j3U/zTswNQDS/aDgz6iivbAoYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jakub\\source\\repos\\Szkielete na obiektowe\\Szkielete na obiektowe\\Szkielete na obiektowe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jakub\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
